@@ -147,7 +147,10 @@ const Home = ({ resdata }) => {
   return (
     <div className="home">
       <Head title="home" />
+     {!searchTerm && (
       <NavBar />
+      )}
+
       {firstHero && !searchTerm ? (
         <div>
           <HeroImage
