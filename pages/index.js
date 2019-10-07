@@ -147,15 +147,10 @@ const Home = ({ resdata }) => {
   return (
     <div className="home">
       <Head title="home" />
-   {firstHero && !searchTerm ?  (
-      <div> 
-      <NavBar />
-      </div>
-      )
-      :null}
 
-      {firstHero && !searchTerm ? (
+      {(firstHero && !searchTerm) ? (
         <div>
+          <NavBar />
           <HeroImage
             image={`${IMAGE_BASE_URL}${BACKDROP_SIZE}${firstHero.backdrop_path}`}
             title={firstHero.original_title}
