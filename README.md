@@ -4,11 +4,11 @@ A Professional movie database which gets data from external API. by the help of 
 with server side rendering and Search engine optimization.
 
 ## Screenshot
-
-![screenshot](https://github.com/mehrdad-safari/movie-db-api/blob/master/sceenshots/screenshot1.png)
-![screenshot](https://github.com/mehrdad-safari/movie-db-api/blob/master/sceenshots/screenshot2.png)
-![screenshot](https://github.com/mehrdad-safari/movie-db-api/blob/master/sceenshots/screenshot3.png)
-![screenshot](https://github.com/mehrdad-safari/movie-db-api/blob/master/sceenshots/screenshot4.png)
+ 
+![screenshot](https://github.com/mehrdad-safari/movie-db-api/blob/master/screenshots/screenshot1.PNG)
+![screenshot](https://github.com/mehrdad-safari/movie-db-api/blob/master/screenshots/screenshot2.PNG)
+![screenshot](https://github.com/mehrdad-safari/movie-db-api/blob/master/screenshots/screenshot3.PNG)
+![screenshot](https://github.com/mehrdad-safari/movie-db-api/blob/master/screenshots/screenshot4.PNG)
 
 ## How To Install
 Get in the program folder(/movie-db-api), and type following commands
