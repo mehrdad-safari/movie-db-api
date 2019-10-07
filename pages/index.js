@@ -147,9 +147,12 @@ const Home = ({ resdata }) => {
   return (
     <div className="home">
       <Head title="home" />
-     {!searchTerm && (
+   {firstHero && !searchTerm ?  (
+      <div> 
       <NavBar />
-      )}
+      </div>
+      )
+      :null}
 
       {firstHero && !searchTerm ? (
         <div>
