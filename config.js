@@ -3,7 +3,7 @@
 const API_URL = 'https://api.themoviedb.org/3/';
 
 // Put Your Themoviedb.org API key 
-const API_KEY = '';
+const API_KEY = process.env.API_KEYS; 
 
 // Images
 // An image URL looks like this example:
