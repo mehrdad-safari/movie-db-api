@@ -3,6 +3,9 @@
 A Professional movie database which gets data from external API. by the help of nextjs it is server less application 
 with server side rendering and Search engine optimization.
 
+## Online Demo 
+https://react-movie-database-app.herokuapp.com/
+
 ## Screenshot
  
 ![screenshot](https://github.com/mehrdad-safari/movie-db-api/blob/master/screenshots/screenshot1.PNG)
@@ -30,9 +33,6 @@ npm run dev
 
  
  
-
-##  To Do Features
-* Adding Online Demo
 
 
 
